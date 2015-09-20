@@ -1595,7 +1595,7 @@ The default value for the `Task.send_error_emails` attribute, which if
 set to :const:`True` means errors occurring during task execution will be
 sent to :setting:`ADMINS` by email.
 
-Disabled by default.
+Enabled by default.
 
 .. setting:: ADMINS
 
